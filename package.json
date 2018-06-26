@@ -1,0 +1,17 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "A restfull api with PDO and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "json",
+    "cryce",
+    "truly"
+  ],
+  "author": "Cryce Truly",
+  "license": "MIT"
+}
